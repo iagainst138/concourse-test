@@ -2,4 +2,6 @@
 
 set -e -x
 
+hostname
 sleep 10
+echo done
