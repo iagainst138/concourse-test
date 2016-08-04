@@ -2,4 +2,4 @@
 
 set -e -x
 
-sleep 8
+sleep 10
