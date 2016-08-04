@@ -2,6 +2,5 @@
 
 set -e -x
 
-hostname
+echo "$(hostname) $(date)" > output.txt
 sleep 10
-echo done
