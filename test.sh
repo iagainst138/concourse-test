@@ -2,4 +2,6 @@
 
 set -e -x
 
+ls -lR
+
 env
