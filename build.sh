@@ -7,6 +7,7 @@ echo "$(hostname) $(date)" > output-1.0.0.txt
 
 ls -l output-*.txt
 ls -l /
+pwd
 echo
 
 ls -ltr
