@@ -2,6 +2,6 @@
 
 set -e -x
 
-echo "$(hostname) $(date)" > output
+echo "$(hostname) $(date)" > output-$(date +%s)
 
 ls -ltr
