@@ -2,6 +2,7 @@
 
 set -e -x
 
+pwd
 ls -lR
 
 env
