@@ -3,5 +3,3 @@
 set -e -x
 
 env
-
-exit 1
