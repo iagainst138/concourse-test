@@ -9,7 +9,7 @@ inputs:
 - name: concourse-test
 - name: test-release
 
-ouputs:
+outputs:
 - name: outputs
 
 run:
