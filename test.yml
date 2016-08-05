@@ -9,4 +9,4 @@ inputs:
 - name: concourse-test
 
 run:
-  path: ./concourse-test/test.sh
+  path: ./concourse-test/list.sh

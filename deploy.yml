@@ -7,6 +7,7 @@ image_resource:
 
 inputs:
 - name: concourse-test
+- name: test-release
 
 run:
-  path: ./concourse-test/deploy.sh
+  path: ./concourse-test/list.sh
