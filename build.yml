@@ -8,5 +8,8 @@ image_resource:
 inputs:
 - name: concourse-test
 
+outputs:
+- name: built-resources
+
 run:
   path: ./concourse-test/build.sh

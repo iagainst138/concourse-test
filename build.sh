@@ -2,7 +2,7 @@
 
 set -e -x
 
-BUILD_DIR=$PWD/built-resource
+BUILD_DIR=$PWD/built-resources
 mkdir -p $BUILD_DIR
 BASE_DIR=$(readlink -f $(dirname $0))
 
