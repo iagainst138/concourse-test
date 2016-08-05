@@ -14,3 +14,8 @@ echo "$(hostname) $(date)" > $BUILD_DIR/output-1.0.$(date +%s).txt
 #ls -ltr /
 #ls -ltr $BASE_DIR
 ls -ltrR
+
+
+
+
+
