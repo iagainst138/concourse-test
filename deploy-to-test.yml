@@ -9,5 +9,8 @@ inputs:
 - name: concourse-test
 - name: test-release
 
+ouputs:
+- name: outputs
+
 run:
-  path: ./concourse-test/list.sh
+  path: ./concourse-test/deploy-to-test.sh
