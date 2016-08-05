@@ -4,7 +4,7 @@ set -e -x
 
 ls -lR
 
-mkdir outputs
+mkdir -p outputs
 
 cp test-release/output*.txt outputs/
 
