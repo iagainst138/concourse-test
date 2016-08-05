@@ -5,5 +5,4 @@ set -e -x
 pwd
 ls -lR
 
-exit 1
 
